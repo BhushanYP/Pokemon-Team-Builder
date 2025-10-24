@@ -38,9 +38,17 @@ It uses machine learning to predict Pokémon battle power and recommend team mem
 ---
 ## 📊 Example Output
 
-- When you select a Pokémon like Bulbasaur, the system:
+- When you select a Pokémon like Butterfree, the system:
+![](images/1.png)
+
 - Predicts its strengths and weaknesses.
-- Recommends Pokémon of complementary types (e.g., Water, Fire, Steel).
+- Recommends Pokémon of complementary types (e.g., Water, Fire):
+### Recommended Pokemon:
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+
 - Displays a visual breakdown of each suggested Pokémon.
 
 ## 🧩 Tech Stack
