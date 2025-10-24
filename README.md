@@ -1,6 +1,6 @@
-# 🧠 Pokémon Team Builder (AI-Powered)
+# 🧠 Pokémon Team Builder
 
-This project is an **AI-powered Pokémon Team Builder** that helps players create the most balanced and powerful teams using data-driven insights.  
+This project is an **Pokémon Team Builder** that helps players create the most balanced and powerful teams using data-driven insights.  
 It uses machine learning to predict Pokémon battle power and recommend team members that **complement each other's types** — ensuring full team coverage and strategic advantage.
 
 ---
